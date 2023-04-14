@@ -47,7 +47,10 @@ fi
 
 case "$(uname)" in
     Darwin)
-	conda_platform='osx_64'
+	    conda_platform='osx_64'
+        if [ "$(uname -m)" == "arm64" ]; then
+            conda_platform='osx_aarch64'
+        fi
 	;;
     Linux)
         conda_platform='linux_64'

@@ -43,10 +43,7 @@ set -xe
 
 cd "$script_bin/.."
 
-
-
 ./scripts/render_recipe_for_platform.sh "$TMPFILE"
-
 
 "$script_bin/rendered2env_yaml.sh" "$TMPFILE" "$devrun" > "$TMPENV"
 
