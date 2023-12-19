@@ -1,0 +1,4 @@
+<map id="sparta::PriorityQueue::pop" name="sparta::PriorityQueue::pop">
+<area shape="rect" id="node1" title="Pop the front of the queue (highest priority)" alt="" coords="5,13,175,38"/>
+<area shape="rect" id="node2" href="$classsparta_1_1PriorityQueue.html#a88ed60b8f7b82d09765dad12f6435d1d" title="Is the queue empty?" alt="" coords="223,5,365,45"/>
+</map>

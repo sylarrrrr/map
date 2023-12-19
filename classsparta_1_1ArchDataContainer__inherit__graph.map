@@ -1,0 +1,51 @@
+<map id="sparta::ArchDataContainer" name="sparta::ArchDataContainer">
+<area shape="rect" id="node1" title="Container class for any number of ArchData pointers owned externally." alt="" coords="5,791,179,816"/>
+<area shape="rect" id="node2" href="$classsparta_1_1TreeNode.html" title="Node in a composite tree representing a sparta Tree item." alt="" coords="227,791,348,816"/>
+<area shape="rect" id="node3" href="$classcore__example_1_1SimpleDL1.html" title=" " alt="" coords="417,5,589,31"/>
+<area shape="rect" id="node4" href="$classsparta_1_1Baz.html" title=" " alt="" coords="459,55,546,80"/>
+<area shape="rect" id="node5" href="$classsparta_1_1Bus.html" title="Class that defines a Bus type." alt="" coords="459,104,546,129"/>
+<area shape="rect" id="node6" href="$classsparta_1_1BusSet.html" title="A TreeNode that represents a set of Buses." alt="" coords="449,153,556,179"/>
+<area shape="rect" id="node7" href="$classsparta_1_1Clock.html" title="A representation of simulated time." alt="" coords="454,203,551,228"/>
+<area shape="rect" id="node8" href="$classsparta_1_1CycleHistogramTreeNode.html" title="CycleHistogramTreeNode class for uint64_t values." alt="" coords="396,252,609,277"/>
+<area shape="rect" id="node9" href="$classsparta_1_1DynamicResourceTreeNode.html" title="TreeNode subclass representing a node in the device tree which creates and owns a resource...." alt="" coords="403,302,602,342"/>
+<area shape="rect" id="node10" href="$classsparta_1_1EnumCycleHistogram.html" title="EnumCycleHistogram class for C++ Enum values." alt="" coords="408,366,597,406"/>
+<area shape="rect" id="node11" href="$classsparta_1_1EnumHistogram.html" title="EnumHistogram class for sparta::utils::Enum." alt="" coords="424,430,581,470"/>
+<area shape="rect" id="node12" href="$classsparta_1_1EventNode.html" title="EventNode is the base class for all event types in SPARTA. Not to be used by the modeler...." alt="" coords="439,495,567,520"/>
+<area shape="rect" id="node23" href="$classsparta_1_1EventSet.html" title="Set of Events that a unit (or sparta::TreeNode, sparta::Resource) contains and are visible through a ..." alt="" coords="444,544,561,569"/>
+<area shape="rect" id="node24" href="$classsparta_1_1GlobalTreeNode.html" title="TreeNode which represents some &quot;global&quot; namespace of the device tree, containing only RootTreeNodes,..." alt="" coords="423,593,582,619"/>
+<area shape="rect" id="node25" href="$classsparta_1_1HistogramTreeNode.html" title=" " alt="" coords="412,643,593,668"/>
+<area shape="rect" id="node26" href="$classsparta_1_1InstrumentationNode.html" title="Base class requiring." alt="" coords="410,692,595,717"/>
+<area shape="rect" id="node29" href="$classsparta_1_1NotificationSourceBase.html" title="A TreeNode that generates a single specific type of notification which propagates up a tree of TreeNo..." alt="" coords="403,741,603,767"/>
+<area shape="rect" id="node34" href="$classsparta_1_1ParameterBase.html" title="Non&#45;templated base class for generic parameter access and iteration." alt="" coords="425,791,580,816"/>
+<area shape="rect" id="node35" href="$classsparta_1_1ParameterSet.html" title="Generic container of Parameters." alt="" coords="431,840,575,865"/>
+<area shape="rect" id="node36" href="$classsparta_1_1Port.html" title="The port interface used to bind port types together and defines a port behavior." alt="" coords="459,889,547,915"/>
+<area shape="rect" id="node37" href="$classsparta_1_1PortSet.html" title="A TreeNode that represents a set of ports used by a Resource." alt="" coords="449,939,557,964"/>
+<area shape="rect" id="node38" href="$classsparta_1_1RegisterBase.html" title="Base class to represents an architected register of any size that is a power of 2 and greater than 0 ..." alt="" coords="431,988,574,1013"/>
+<area shape="rect" id="node39" href="$classsparta_1_1RegisterBase_1_1Field.html" title="Register Field with masked access to owning register." alt="" coords="431,1038,574,1078"/>
+<area shape="rect" id="node40" href="$classsparta_1_1RegisterSet.html" title="Holds and can create a set of Register objects having various names and groups." alt="" coords="437,1103,569,1128"/>
+<area shape="rect" id="node41" href="$classsparta_1_1ResourceTreeNode.html" title="TreeNode subclass representing a node in the device tree which contains a single ResourceFactory and ..." alt="" coords="415,1152,591,1177"/>
+<area shape="rect" id="node42" href="$classsparta_1_1RootTreeNode.html" title="TreeNode which represents the root (&quot;top&quot;) of a device tree." alt="" coords="429,1201,577,1227"/>
+<area shape="rect" id="node43" href="$classsparta_1_1StateHistogram.html" title="StateHistogram class for uint64_t values." alt="" coords="425,1251,580,1291"/>
+<area shape="rect" id="node44" href="$classsparta_1_1StateTimerUnit.html" title="A high level wrapper contains the StateTimerPool and StateTimerHistogram." alt="" coords="427,1316,579,1341"/>
+<area shape="rect" id="node45" href="$classsparta_1_1StatisticSet.html" title="Set of StatisticDef and CounterBase&#45;derived objects for visiblility through a sparta Tree." alt="" coords="437,1365,569,1391"/>
+<area shape="rect" id="node46" href="$classsparta_1_1VirtualGlobalTreeNode.html" title="Virtual global node for all device trees in a single simulation. This node acts a potential notificat..." alt="" coords="405,1415,600,1440"/>
+<area shape="rect" id="node47" href="$classsparta_1_1collection_1_1CollectableTreeNode.html" title="An abstract type of TreeNode that has virtual calls to start collection on this node,..." alt="" coords="428,1465,577,1505"/>
+<area shape="rect" id="node48" href="$classsparta_1_1memory_1_1BlockingMemoryIFNode.html" title="Pure&#45;virtual memory interface that builds on the BlockingMemoryIF, acting as a TreeNode in the SPARTA..." alt="" coords="419,1529,586,1569"/>
+<area shape="rect" id="node49" href="$classsparta_1_1memory_1_1TranslationIFNode.html" title="TranslationIF extension that builds on TranslastionIF, acting as a TreeNode in the SPARTA device tree..." alt="" coords="413,1593,593,1633"/>
+<area shape="rect" id="node13" href="$classsparta_1_1Event.html" title=" " alt="" coords="675,53,847,93"/>
+<area shape="rect" id="node14" href="$classsparta_1_1PhasedPayloadEvent.html" title=" " alt="" coords="667,117,855,157"/>
+<area shape="rect" id="node15" href="$classsparta_1_1PhasedPayloadEvent.html" title=" " alt="" coords="667,181,854,221"/>
+<area shape="rect" id="node16" href="$classsparta_1_1PhasedPayloadEvent.html" title=" " alt="" coords="657,245,864,285"/>
+<area shape="rect" id="node17" href="$classsparta_1_1PhasedPayloadEvent.html" title=" " alt="" coords="667,309,854,349"/>
+<area shape="rect" id="node18" href="$classsparta_1_1PhasedPayloadEvent.html" title=" " alt="" coords="667,373,854,413"/>
+<area shape="rect" id="node19" href="$classsparta_1_1Event.html" title="Event is a simple class for scheduling random events on the Scheduler." alt="" coords="689,437,832,477"/>
+<area shape="rect" id="node20" href="$classsparta_1_1PhasedPayloadEvent.html" title="Class to schedule a Scheduleable in the future with a payload, but the class itself is not typed on t..." alt="" coords="667,501,854,541"/>
+<area shape="rect" id="node21" href="$classsparta_1_1PhasedSingleCycleUniqueEvent.html" title="An event that can only be schedule one cycle into the future." alt="" coords="673,565,849,605"/>
+<area shape="rect" id="node22" href="$classsparta_1_1PhasedUniqueEvent.html" title="A type of Event that uniquely schedules itself on the schedule within a single time quantum...." alt="" coords="669,629,852,655"/>
+<area shape="rect" id="node27" href="$classsparta_1_1CounterBase.html" title="The base class for all Counters." alt="" coords="691,679,830,704"/>
+<area shape="rect" id="node28" href="$classsparta_1_1StatisticDef.html" title="Contains a statistic definition (some useful information which can be computed)" alt="" coords="695,728,827,753"/>
+<area shape="rect" id="node30" href="$classsparta_1_1NotificationSource.html" title=" " alt="" coords="675,778,846,818"/>
+<area shape="rect" id="node31" href="$classsparta_1_1NotificationSource.html" title=" " alt="" coords="675,842,846,882"/>
+<area shape="rect" id="node32" href="$classsparta_1_1NotificationSource.html" title=" " alt="" coords="675,906,846,946"/>
+<area shape="rect" id="node33" href="$classsparta_1_1NotificationSource.html" title=" " alt="" coords="675,970,846,1010"/>
+</map>

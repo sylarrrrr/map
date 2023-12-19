@@ -1,0 +1,5 @@
+<map id="sparta::SpartaFatalError" name="sparta::SpartaFatalError">
+<area shape="rect" id="node1" title="Indicates something went seriously wrong and likely indicates unrecoverable corruption in simulator r..." alt="" coords="5,152,164,177"/>
+<area shape="rect" id="node2" href="$classsparta_1_1SpartaException.html" title="Used to construct and throw a standard C++ exception. Inherits from std::exception." alt="" coords="5,79,164,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="34,5,135,31"/>
+</map>

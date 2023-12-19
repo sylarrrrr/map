@@ -1,0 +1,4 @@
+<map id="sparta::PriorityQueue::back" name="sparta::PriorityQueue::back">
+<area shape="rect" id="node1" title="Get the last element (lowest priority) in the queue." alt="" coords="5,5,148,45"/>
+<area shape="rect" id="node2" href="$classsparta_1_1PriorityQueue.html#a88ed60b8f7b82d09765dad12f6435d1d" title="Is the queue empty?" alt="" coords="196,5,339,45"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="sparta::CounterBase" name="sparta::CounterBase">
+<area shape="rect" id="node1" title="The base class for all Counters." alt="" coords="140,299,279,324"/>
+<area shape="rect" id="node7" href="$classsparta_1_1Counter.html" title="Represents a counter of type counter_type (uint64_t). 2 and greater than 0 with a ceiling specified...." alt="" coords="5,372,115,397"/>
+<area shape="rect" id="node8" href="$classsparta_1_1CycleCounter.html" title="Represents a cycle counter." alt="" coords="139,372,280,397"/>
+<area shape="rect" id="node9" href="$classsparta_1_1ReadOnlyCounter.html" title="Represents a non&#45;writable and non&#45;observable counter with a very similar interface to sparta::Counter..." alt="" coords="304,372,469,397"/>
+<area shape="rect" id="node2" href="$classsparta_1_1InstrumentationNode.html" title="Base class requiring." alt="" coords="117,225,302,251"/>
+<area shape="rect" id="node3" href="$classsparta_1_1TreeNode.html" title="Node in a composite tree representing a sparta Tree item." alt="" coords="149,152,270,177"/>
+<area shape="rect" id="node4" href="$classsparta_1_1ResourceContainer.html" title="PhasedObject which can hold 0 or 1 Resource pointers to an associatedresource. Contains logic for set..." alt="" coords="23,79,198,104"/>
+<area shape="rect" id="node5" href="$classsparta_1_1PhasedObject.html" title="Object having a specific phase in the sparta construction paradigm." alt="" coords="37,5,184,31"/>
+<area shape="rect" id="node6" href="$classsparta_1_1ArchDataContainer.html" title="Container class for any number of ArchData pointers owned externally." alt="" coords="223,79,396,104"/>
+</map>
